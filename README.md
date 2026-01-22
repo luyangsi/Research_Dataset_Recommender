@@ -73,7 +73,7 @@ Then open your browser to `http://localhost:8501`
 ### Run the Analysis Notebook
 
 ```bash
-jupyter notebook notebooks/01_public_data_analysis.ipynb
+jupyter notebook notebooks/public_data_analysis.ipynb
 ```
 
 ---
